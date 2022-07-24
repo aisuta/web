@@ -38,7 +38,7 @@
             </div>
             <img class='maimg' src='images/zima.jpg'>
             <div class='data4'>
-                <div>张伟</div>
+                <div>陈家文</div>
                 <div class='shuaxin'>刷新</div>
             </div>
         </div>
